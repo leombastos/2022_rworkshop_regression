@@ -6,20 +6,20 @@ This is a public GitHub repository to share the files needed for the **Kansas St
 
 The workshop is presented in one day for 2 hours where we will cover:  
     
-    - Linear, quadratic, and linear-plateau regression
-    - Regression analysis workflow including  
-      - data import
-      - data wrangling
-      - exploratory data analysis
-      - formal statistical analysis
-      - model assumption checking with residual diagnostics
-      - model summary
-      - final plot
-    - Difference between ANOVA and regression
-    - Model selection
-    - Explore some cool applications of regression like 
-        - finding an optimum input rate that maximizes yield
-        - prediction
+ - Linear, quadratic, and linear-plateau regression
+ - Regression analysis workflow including  
+   - data import
+   - data wrangling
+   - exploratory data analysis
+   - formal statistical analysis
+   - model assumption checking with residual diagnostics
+   - model summary
+   - final plot
+ - Difference between ANOVA and regression
+ - Model selection
+ - Explore some cool applications of regression like 
+     - finding an optimum input rate that maximizes yield
+     - prediction
 
 
 ## **Interested in "attending" the workshop?**  
