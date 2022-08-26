@@ -28,7 +28,9 @@ The workshop is presented in one day for 2 hours where we will cover:
 
 2. Unzip the repository, launch the RStudio project (by clicking on the "*2022_rworkshop_regression.Rproj*" file).  
 
-3. On RStudio, go to the "*Files*" tab (lower right), click on folder "*markdown*", and open file 
+3. On RStudio, go to the "*Files*" tab (lower right), click on folder "*markdown*", and open file "package_prep.R". Run each line of this script to install the packages we need for the workshop.   
+
+4. On RStudio, go to the "*Files*" tab (lower right), click on folder "*markdown*", and open file 
     - "*reg_partial.Rmd*" 
  
 
