@@ -5,6 +5,7 @@ Hey there!
 This is a public GitHub repository to share the files needed for the **Kansas State University/University of Georgia 2022 AGSA R Workshop - Regression for optimum rate and prediction R Workshop**, taught by [@leombastos](https://github.com/leombastos).    
 
 The workshop is presented in one day for 2 hours where we will cover:  
+    
     - Linear, quadratic, and linear-plateau regression
     - Regression analysis workflow including  
       - data import
