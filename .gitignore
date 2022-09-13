@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # complete file
-/markdown/reg_complete.Rmd
+#/markdown/reg_complete.Rmd
